@@ -1,18 +1,138 @@
-# 💫 About Me:
-I'm looking to collaborate on cloud native projects.<br>I'm currently learning Cloud and DevOps tools.<br>I'm also preparing for Cloud and DevOps certifications. <br>How to reach me: arhamjob3117@gmail.com<br>
+# Hi there, I'm Muhammad Arham 👋
 
+## 🚀 Cloud & Platform Engineer | AWS Solutions Architect | Infrastructure Automation Specialist
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ma28b/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arham3117&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arham3117&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arham3117&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> Passionate about building scalable, secure cloud infrastructure and driving DevOps excellence. Currently advancing from intermediate to senior-level engineering with focus on cloud-native technologies and platform engineering.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arham3117&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎯 **What I'm Working On**
+- 🏗️ Building enterprise-grade infrastructure automation with Terraform
+- ☁️ Designing multi-cloud architectures for scalability and resilience  
+- 🔐 Implementing cloud security best practices and compliance frameworks
+- 🤖 Contributing to open-source DevOps and infrastructure tools
+- 📚 Advancing towards senior platform engineering expertise
+
+---
+
+### 🛠️ **Technical Expertise**
+
+#### ☁️ **Cloud Platforms**
+![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Intermediate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Intermediate-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+#### 🏗️ **Infrastructure & DevOps**
+```
+Infrastructure as Code    ████████████ Terraform | ██████████ Ansible
+Container Orchestration   ████████████ Kubernetes | ██████████ Docker  
+CI/CD & GitOps           ████████████ Jenkins | ██████████ ArgoCD | ████████ GitLab
+Monitoring & Observability ████████████ Prometheus | ██████████ Grafana
+```
+
+#### 🔒 **Security & Compliance**
+- Cloud Security Architecture & Implementation
+- Infrastructure Security Scanning & Compliance
+- Identity and Access Management (IAM)
+- Security Automation & Incident Response
+
+#### 💻 **Programming & Scripting**
+`Python` `C++` `C#` `SQL` `Shell Scripting` `YAML` `JSON`
+
+---
+
+### 🏆 **Certifications & Achievements**
+
+#### ☁️ **AWS Certified**
+- 🏅 **Solutions Architect Associate** - Designing scalable AWS architectures
+- 🏅 **Developer Associate** - Building and deploying applications on AWS  
+- 🏅 **Cloud Practitioner** - AWS foundational knowledge
+
+#### 🏗️ **Infrastructure & Security**
+- 🏅 **HashiCorp Terraform Certified** - Infrastructure automation expertise
+- 🏅 **CodePath Cybersecurity** (Introduction & Intermediate) - Security fundamentals
+- 🏅 **Cisco Introduction to Cybersecurity** - Network security principles
+
+---
+
+### 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+### 🎯 **Featured Projects**
+
+#### 🏗️ [**Multi-Cloud Infrastructure Platform**](link-to-repo)
+Enterprise-grade infrastructure deployment across AWS, Azure, and GCP using Terraform
+- **Tech Stack:** Terraform, Kubernetes, Prometheus, Grafana
+- **Features:** Auto-scaling, monitoring, security compliance, cost optimization
+
+#### 🤖 [**CI/CD Automation Suite**](link-to-repo)  
+Complete DevOps pipeline with GitOps practices and security integration
+- **Tech Stack:** Jenkins, ArgoCD, Docker, Kubernetes, Helm
+- **Features:** Multi-environment deployment, security scanning, automated testing
+
+#### 🔐 [**Cloud Security Automation**](link-to-repo)
+Automated security compliance and incident response for cloud environments
+- **Tech Stack:** Python, AWS Config, CloudTrail, Lambda
+- **Features:** Real-time compliance monitoring, automated remediation
+
+---
+
+### 🌟 **Open Source Contributions**
+
+- 🔧 **Terraform Providers** - Contributing modules and bug fixes
+- ☸️ **Kubernetes Ecosystem** - Documentation improvements and tool enhancements  
+- 📊 **Monitoring Tools** - Prometheus exporters and Grafana dashboards
+- 🔒 **Security Tools** - Cloud security automation scripts
+
+---
+
+### 📈 **Current Focus & Goals**
+
+```yaml
+current_priorities:
+  - advancing_to_senior_level: "Building complex, enterprise-scale projects"
+  - cloud_expertise: "Deepening multi-cloud architecture knowledge"
+  - security_specialization: "Expanding cloud security and compliance skills"
+  - open_source: "Contributing to major infrastructure projects"
+  - continuous_learning: "Staying current with emerging technologies"
+
+target_companies: ["Amazon", "Meta", "Google", "Microsoft", "Netflix"]
+career_goal: "Senior Platform/Cloud Engineer"
+```
+
+---
+
+### 🤝 **Let's Connect**
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ma28b/
+- 🌐 **Portfolio:** "Coming Soon"
+- 📧 **Email:** arhamjob3117@gmail.com
+
+---
+
+### 📚 **Latest Blog Posts & Learning**
+<!-- BLOG-POST-LIST:START -->
+- 🔧 Building Resilient Multi-Cloud Infrastructure with Terraform
+- ☸️ Advanced Kubernetes Patterns for Platform Engineering  
+- 🔐 Implementing Zero-Trust Security in Cloud Environments
+- 📊 Observability Best Practices for Microservices Architecture
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+
+### 💡 *"Infrastructure is not just about servers and networks—it's about enabling innovation and scale"*
+
+**⭐ Star my repositories if you find them useful!**  
+**🤝 Open to collaborating on interesting infrastructure and DevOps projects**
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
