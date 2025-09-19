@@ -10,7 +10,7 @@
 ├─────────────────────────────────────────────────────────────────────────┤
 │                                                                         │
 │ arham3117@devops:~$ whoami                                             │
-│ Cloud Platform Engineer - Development, DevOps, and Platform Engineering│
+│ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&pause=1000&color=00FF00&background=0D111700&vCenter=true&width=600&lines=DevOps+Engineer+-+Automation+%26+Infrastructure;Cloud+Engineer+-+Scalable+Solutions;Platform+Engineer+-+Production+Systems" alt="Typing SVG" />│
 │                                                                         │
 │ arham3117@devops:~$ cat about.json                                     │
 │ {                                                                       │
