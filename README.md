@@ -6,12 +6,11 @@
 
 ```bash
 ┌─────────────────────────────────────────────────────────────────────────┐
-│ 🔴 🟡 🟢                    yourusername@github-profile:~               │
+│ 🔴 🟡 🟢                    arham3117@github-profile:~                  │
 ├─────────────────────────────────────────────────────────────────────────┤
 │                                                                         │
 │ arham3117@devops:~$ whoami                                             │
-│                                                                         │
-│ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&background=00000000&center=false&vCenter=true&width=700&lines=DevOps+Engineer+-+Infrastructure+Automation;Cloud+Engineer+-+AWS+%7C+Azure+%7C+GCP+Solutions;Platform+Engineer+-+Kubernetes+%26+Production;Security+Engineer+-+Cloud+Security+%26+Compliance)](https://git.io/typing-svg) │
+│ DevOps Engineer • Cloud Engineer • Platform Engineer • Security Engineer │
 │                                                                         │
 │ arham3117@devops:~$ cat about.json                                     │
 │ {                                                                       │
