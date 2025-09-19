@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# **🚀 DevOps • Cloud • Platform • Cloud Security Engineer**
+# **  DevOps • Cloud • Platform • Cloud Security Engineer**
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-## 🚀 **Current Infrastructure Status**
+##  **Current Infrastructure Status**
 
 </div>
 
