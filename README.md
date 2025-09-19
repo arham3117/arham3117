@@ -6,11 +6,11 @@
 
 ```bash
 ┌─────────────────────────────────────────────────────────────────────────┐
-│ 🔴 🟡 🟢                    yourusername@github-profile:~               │
+│ 🔴 🟡 🟢                    arham3117@github-profile:~                  │
 ├─────────────────────────────────────────────────────────────────────────┤
 │                                                                         │
 │ arham3117@devops:~$ whoami                                             │
-│ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&pause=1000&color=00FF00&background=0D111700&vCenter=true&width=600&lines=DevOps+Engineer+-+Automation+%26+Infrastructure;Cloud+Engineer+-+Scalable+Solutions;Platform+Engineer+-+Production+Systems" alt="Typing SVG" />│
+│ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF00&background=0D111700&vCenter=true&width=600&lines=DevOps+Engineer+-+Automation+%26+Infrastructure;Cloud+Engineer+-+AWS+%7C+Azure+%7C+GCP;Platform+Engineer+-+K8s+%26+Production+Systems;Security+Engineer+-+Cloud+Security+Automation" alt="Rotating Roles" />│
 │                                                                         │
 │ arham3117@devops:~$ cat about.json                                     │
 │ {                                                                       │
