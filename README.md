@@ -1,6 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=~/Cloud-Engineer&fontSize=40&fontColor=00ff00&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Arham&fontSize=50&fontColor=00ff00&animation=twinkling)
+
+<div align="center">
+
+# **🚀 DevOps • Cloud • Platform • Cloud Security Engineer**
+
+</div>
 
 </div>
 
@@ -10,7 +16,7 @@
 ├─────────────────────────────────────────────────────────────────────────┤
 │                                                                         │
 │ arham3117@devops:~$ whoami                                             │
-│ DevOps Engineer • Cloud Engineer • Platform Engineer • Security Engineer │
+│ "Engineer who wants to turning ideas into scalable cloud infrastructure" │
 │                                                                         │
 │ arham3117@devops:~$ cat about.json                                     │
 │ {                                                                       │
@@ -36,11 +42,11 @@
 │ arham3117@devops:~$ kubectl get skills                                 │
 │                                                                         │
 │ NAME        READY  STATUS    AGE                                        │
-│ Docker      1/1    Running   5y    ████████████████████ 95%            │
-│ Kubernetes  1/1    Running   4y    ██████████████████   85%            │
-│ Terraform   1/1    Running   4y    ██████████████████   90%            │
-│ Ansible     1/1    Running   3y    ████████████████     80%            │
-│ Jenkins     1/1    Running   3y    ████████████████     85%            │
+│ Docker      1/1    Running   1y    ████████████████████ 95%            │
+│ Kubernetes  1/1    Running   1y    ██████████████████   85%            │
+│ Terraform   1/1    Running   1y    ██████████████████   90%            │
+│ Ansible     1/1    Running   1y    ████████████████     80%            │
+│ Jenkins     1/1    Running   1y    ████████████████     85%            │
 │                                                                         │
 │ arham3117@devops:~$ aws configure list                                 │
 │                                                                         │
@@ -51,7 +57,7 @@
 │                                                                         │
 │ arham3117@devops:~$ ls /skills/programming/                            │
 │                                                                         │
-│ Python    JavaScript    Bash    Go                                     │
+│ Python   C++    Shell/Bash    Go                                     │
 │                                                                         │
 │ arham3117@devops:~$ uptime                                             │
 │                                                                         │
@@ -89,10 +95,10 @@
 │                                                                         │
 │ arham3117@devops:~$ tail -f /var/log/achievements.log                  │
 │                                                                         │
-│ [2025-09-18] ✅ AWS Solutions Architect Associate - CERTIFIED          │
-│ [2025-09-15] ✅ AWS Developer Associate - CERTIFIED                    │
-│ [2025-09-10] ✅ HashiCorp Terraform Associate - CERTIFIED              │
-│ [2025-09-05] ✅ AWS Cloud Practitioner - CERTIFIED                     │
+│ [2025-09-18] ✅ AWS Cloud Practitioner - CERTIFIED                     │
+│ [2025-09-15] ✅ AWS Solutions Architect Associate - CERTIFIED          │
+│ [2025-09-10] ✅ AWS Developer Associate - CERTIFIED                    │
+│ [2025-09-05] ✅ HashiCorp Terraform Associate - CERTIFIED              │
 │ [2025-08-28] ✅ CodePath Cybersecurity (Intermediate) - COMPLETED      │
 │ [2025-08-15] ✅ Cisco Introduction to Cybersecurity - COMPLETED        │
 │                                                                         │
