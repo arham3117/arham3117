@@ -37,7 +37,7 @@
 │ cloud-security-automation/ infrastructure-monitoring/                  │
 │                                                                         │
 │ arham3117@devops:~$ echo $CAREER_TARGET                                │
-│ "Senior Platform Engineer @ Amazon | Meta | Google"                    │
+│ "Senior Platform Engineer "                                              │
 │                                                                         │
 │ arham3117@devops:~$ curl -I https://linkedin.com/in/ma28b              │
 │ HTTP/2 200 OK ✅ Professional Network Active                           │
