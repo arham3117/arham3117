@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Arham&fontSize=50&fontColor=00ff00&animation=twinkling)
 
-# ** DevOps • Cloud • Securty • ML Engineer**
+# ** DevOps • Cloud • Security • ML Engineer**
 
 </div>
 
