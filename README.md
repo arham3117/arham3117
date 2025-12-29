@@ -110,57 +110,6 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<p>
-<a href="https://github.com/arham3117">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arham3117&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/arham3117">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham3117&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</a>
-</p>
-
-<a href="https://github.com/arham3117">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arham3117&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=238636&ring=238636&fire=ff6b6b&currStreakLabel=58a6ff" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Current Focus
-
-</div>
-
-<table align="center">
-<tr>
-<td>
-
-```yaml
-researching:
-  - AI Safety & Security for ML Systems
-  - MLOps Pipeline Security
-  - Adversarial Attacks on Containerized ML
-
-building:
-  - Production-grade CI/CD platforms
-  - Infrastructure as Code templates
-  - ML model deployment pipelines
-
-learning:
-  - Advanced Kubernetes security
-  - Cloud-native security patterns
-  - Trustworthy AI monitoring
-```
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
