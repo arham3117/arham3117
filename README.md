@@ -1,63 +1,172 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Arham&fontSize=50&fontColor=00ff00&animation=twinkling)
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=Muhammad%20Arham&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Turning%20ideas%20into%20scalable%20cloud%20infrastructure&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
-# ** DevOps • Cloud • Security • ML Engineer**
+<h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  DevOps • Cloud • Security • ML Engineer
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
+
+<p>
+  <a href="https://linkedin.com/in/ma28b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=arham3117&style=for-the-badge&color=238636&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
 </div>
 
-```bash
-┌─────────────────────────────────────────────────────────────────────────┐
-│ 🔴 🟡 🟢                    arham3117@github-profile:~               │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                         │
-│ arham3117@devops:~$ whoami                                             │
-│ "Muhammad Arham - Turning ideas into scalable cloud infrastructure"    │
-│                                                                         │
-│ arham3117@devops:~$ kubectl get skills                                 │
-│                                                                         │
-│ NAME        READY  STATUS    AGE                                        │
-│ AWS         1/1    Running   2y    ████████████████████ 95%            │
-│ Terraform   1/1    Running   2y    ██████████████████   90%            │
-│ Kubernetes  1/1    Running   2y    ████████████████     85%            │
-│ Docker      1/1    Running   2y    ████████████████████ 95%            │
-│ Python      1/1    Running   3y    ████████████████     85%            │
-│                                                                         │
-│ arham3117@devops:~$ cat ~/.aws_certifications                          │
-│                                                                         │
-│ ✅ AWS Cloud Practitioner                                              │
-│ ✅ AWS Solutions Architect Associate                                    │
-│ ✅ AWS Developer Associate                                              │
-│ ✅ HashiCorp Terraform Associate                                        │
-│ ✅ CodePath Cybersecurity (Intermediate)                               │
-│                                                                         │
-│ arham3117@devops:~$ ls ~/projects/showcase/                            │
-│                                                                         │
-│ multi-cloud-terraform/     k8s-cicd-platform/                         │
-│ cloud-security-automation/ infrastructure-monitoring/                  │
-│                                                                         │
-│ arham3117@devops:~$ echo $CAREER_TARGET                                │
-│ "Senior Platform Engineer "                                              │
-│                                                                         │
-│ arham3117@devops:~$ curl -I https://linkedin.com/in/ma28b              │
-│ HTTP/2 200 OK ✅ Professional Network Active                           │
-│                                                                         │
-│ arham3117@devops:~$ history | tail -1                                 │
-│ 2847  git commit -m "feat: always building the future "             │
-│                                                                         │
-│ arham3117@devops:~$ █                                                  │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arham3117&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00&border_radius=10" />
+<!-- Terminal SVG -->
+<img src="terminal.svg" alt="Terminal" width="100%"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham3117&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&border_radius=10" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=arham3117&style=for-the-badge&color=00ff00&label=SYSTEM+UPTIME" />
+---
 
-**💚 STATUS: ONLINE AND BUILDING**
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### ☁️ Cloud & Infrastructure
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### 🔄 CI/CD & DevOps
+<p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 ML & Data
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### 🔐 Security & Monitoring
+<p>
+<img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Certifications
+
+<p>
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS_Developer-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/CodePath_Cybersecurity-00D084?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arham3117&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arham3117&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arham3117&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=238636&ring=238636&fire=ff6b6b&currStreakLabel=58a6ff" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Focus
+
+```yaml
+researching:
+  - AI Safety & Security for ML Systems
+  - MLOps Pipeline Security
+  - Adversarial Attacks on Containerized ML
+
+building:
+  - Production-grade CI/CD platforms
+  - Infrastructure as Code templates
+  - ML model deployment pipelines
+
+learning:
+  - Advanced Kubernetes security
+  - Cloud-native security patterns
+  - Trustworthy AI monitoring
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<p>
+<a href="https://linkedin.com/in/ma28b">
+<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=100&section=footer"/>
+
+<p>
+<img src="https://img.shields.io/badge/SYSTEM_UPTIME-99.9%25-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE_&_BUILDING-238636?style=flat-square" />
+</p>
+
+**💚 Always learning. Always building. Always shipping.**
 
 </div>
